@@ -1,0 +1,9 @@
+prefix: " §7"
+
+# Available lang: eng
+# If you want to add your language, make a PR on https://github.com/alvin0319/PlayerTrade
+# Please add available lang on here if you are making PR for it.
+lang: eng
+
+# The expiration time for the trade request. (In seconds)
+requestExpire: 30

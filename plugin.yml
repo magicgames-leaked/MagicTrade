@@ -1,0 +1,12 @@
+name: MagicTrade
+authors:
+  - alvin0319
+  - cosmicnebula200
+main: alvin0319\PlayerTrade\PlayerTrade
+version: 1.0.2
+api: 4.0.0
+
+permissions:
+  playertrade.command:
+    description: Allows player to use /trade command
+    default: true
