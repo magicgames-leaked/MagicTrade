@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/magicgames-leaked/MagicTrade
+build-by-default: true
+branches:
+- sex
+projects:
+  MagicTrade:
+    path: ""
+...
